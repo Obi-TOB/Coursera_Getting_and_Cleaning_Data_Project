@@ -16,6 +16,7 @@ Details on R code to generate data
 The R code creates the mean values of the original source data for each subject and activity.
 
 In particular for the creation of this data set the following transformations have been applied:
+
 1. Training and Test sets have been merged into one data set
 2. Only the measurements on the mean and standard deviation for each measurement have been isolated.
 3. Numeric activity names in the data set have been replaced by their corresponding textual representation
